@@ -1,0 +1,7 @@
+push 
+pull
+init
+clone 
+New-Item 
+add 
+commit
